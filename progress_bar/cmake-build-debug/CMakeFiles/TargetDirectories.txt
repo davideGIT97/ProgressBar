@@ -1,0 +1,5 @@
+/home/davide/Projects/progress_bar 5.0/cmake-build-debug/CMakeFiles/progress_bar.dir
+/home/davide/Projects/progress_bar 5.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/davide/Projects/progress_bar 5.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/davide/Projects/progress_bar 5.0/cmake-build-debug/CMakeFiles/progress_bar_autogen_timestamp_deps.dir
+/home/davide/Projects/progress_bar 5.0/cmake-build-debug/CMakeFiles/progress_bar_autogen.dir
